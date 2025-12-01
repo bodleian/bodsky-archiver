@@ -22,7 +22,7 @@ dotenvy = "0.15"
 anyhow = "1.0.100"
 
 [dev-dependencies]
-httpmock = "0.7.0"
+httpmock = "0.8.2"
 
 [profile.release]
 # magic incantations to produce speedier release builds

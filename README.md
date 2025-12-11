@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> This code was produced as part of the 'Algorithmic Archive' project. The project completed in December 2025 and this code is no longer being maintained.
+> This code was produced as part of the 'Algorithmic Archive' project 2024-2025. The project completed in December 2025 and this code is no longer being maintained.
 
 Using the [Bodleian Libraries bluesky account](https://bsky.app/profile/bodleianlibraries.bsky.social) as an example
 
